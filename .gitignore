@@ -1,0 +1,15 @@
+.local/
+.venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.log
+*.wav
+*.ogg
+*.mp3
+*.mkv
+*.mp4
+*.safetensors
+*.pt

@@ -1,0 +1,17 @@
+{
+  "voice": "Microsoft Maria Desktop",
+  "rate": 0,
+  "note": "Exemplo de estrutura. Importe um vídeo real com project.py antes de usar.",
+  "scenes": [
+    {
+      "scene": 1,
+      "title": "Minha demonstração",
+      "file": "01-minha-cena.mkv",
+      "duration": 20.0,
+      "cues": [
+        {"start": 0.5, "text": "Aqui eu apresento a ideia desta demonstração."},
+        {"start": 10.0, "text": "Agora podemos observar o resultado que aparece na tela."}
+      ]
+    }
+  ]
+}
